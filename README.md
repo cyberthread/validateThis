@@ -11,3 +11,8 @@ The best way to tackle this assignment is to:
 ## Evaluation Criteria
 - Code is valid
 - Code is accurate and semantic
+
+## Submission
+Submit the following on Blackboard:
+- Screenshot of validation service indicating you have no validation errors
+- The URL to your repository (you don't need a live site, just the URL to this folder)
